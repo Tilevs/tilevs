@@ -1,30 +1,16 @@
-# Meu Repositório de Aprendizado em Programação
+<h1 align="center">Olá👋, eu sou o Tiago Fernandes</h1>
+<h3 align="center">Sou um estudante de programação e estou cursando o primeiro semestre do curso de ADS</h3>
 
-Olá, seja bem-vindo ao meu repositório de aprendizado em programação! Sou um entusiasta da tecnologia e um estudante dedicado que está em busca de aprimorar minhas habilidades em programação. Neste espaço, vou compartilhar meu progresso, projetos e explorar diversas linguagens e tecnologias.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tilevs&label=Profile%20views&color=0e75b6&style=flat" alt="tilevs" /> </p>
 
-## Sobre Mim
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tilevs" alt="tilevs" /></a> </p>
 
-Meu nome é [Seu Nome], e sou um estudante apaixonado por computação. Estou no começo da minha jornada na programação e estou ansioso para aprender e crescer. Aqui, você encontrará uma variedade de projetos que refletem meu interesse em áreas como desenvolvimento web, inteligência artificial, análise de dados e muito mais.
-
-## Objetivos
-
-Meus objetivos com este repositório são:
-
-- Aprender e aprimorar minhas habilidades de programação em diferentes linguagens.
-- Desenvolver projetos interessantes que demonstrem meu progresso e conhecimento.
-- Colaborar com outros entusiastas da tecnologia para compartilhar conhecimento e construir coisas incríveis juntos.
-
-## Projetos
-
-Fique à vontade para explorar os projetos neste repositório. Eles variam em complexidade e abordam diversos tópicos da programação. Espero que você encontre algo de seu interesse e que possa ser útil para você em sua própria jornada de aprendizado.
-
-## Contribuições
-
-Estou aberto a sugestões, correções e colaborações. Se você gostaria de contribuir para um dos meus projetos ou tem ideias para melhorias, sinta-se à vontade para entrar em contato comigo. Adoraria trabalhar em conjunto!
+<h3 align="left">Linguagens de programação que estou aprendendo:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 ## Contato
 
-Você pode me encontrar em várias plataformas:
+Você pode me encontrar nestas plataformas:
 
 <div> 
   <a href="https://www.instagram.com/tiago_tsf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -32,5 +18,3 @@ Você pode me encontrar em várias plataformas:
   <a href="https://www.linkedin.com/in/tiago-fernandes-a6ab6621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-Obrigado por visitar o meu repositório! Estou empolgado para compartilhar minha jornada de aprendizado em programação com você e espero que encontremos muitas oportunidades para aprender e crescer juntos.
